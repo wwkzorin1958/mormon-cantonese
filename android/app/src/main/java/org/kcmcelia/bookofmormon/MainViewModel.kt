@@ -45,6 +45,10 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     private val _downloadedCount = MutableStateFlow(0)
     val downloadedCount: StateFlow<Int> = _downloadedCount.asStateFlow()
 
+    /** False until the first disk scan finishes; the UI hides download prompts until then. */
+    private val _ready = MutableStateFlow(false)
+    val ready: StateFlow<Boolean> = _ready.asStateFlow()
+
     private val _downloadSummary = MutableStateFlow(DownloadSummary())
     val downloadSummary: StateFlow<DownloadSummary> = _downloadSummary.asStateFlow()
 
@@ -117,6 +121,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     private suspend fun refreshDownloads() = withContext(Dispatchers.IO) {
         _downloadSummary.value = downloads.summary()
         _downloadedCount.value = content.downloadedCount()
+        _ready.value = true
     }
 
     // ---------------------------------------------------------------- playback
@@ -192,10 +197,23 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
             connection.readTimeout = 5_000
             val body = connection.inputStream.bufferedReader().use { it.readText() }
             val latest = Json.parseToJsonElement(body).jsonObject["appVersion"]?.jsonPrimitive?.content
-            if (!latest.isNullOrBlank() && latest != BuildConfig.VERSION_NAME) {
+            // "1.0.0" != "1.0.1" would otherwise nag users who are already newer.
+            if (!latest.isNullOrBlank() && isNewer(latest, BuildConfig.VERSION_NAME)) {
                 _newVersion.value = latest
             }
         }
+    }
+
+    private fun isNewer(remote: String, local: String): Boolean {
+        fun parts(v: String) = v.split(".").mapNotNull { it.trim().toIntOrNull() }
+        val a = parts(remote)
+        val b = parts(local)
+        for (i in 0 until maxOf(a.size, b.size)) {
+            val x = a.getOrElse(i) { 0 }
+            val y = b.getOrElse(i) { 0 }
+            if (x != y) return x > y
+        }
+        return false
     }
 
     override fun onCleared() {

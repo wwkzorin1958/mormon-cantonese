@@ -71,6 +71,7 @@ fun BomApp(viewModel: MainViewModel) {
     BomTheme {
         val progress by viewModel.progress.collectAsStateWithLifecycle()
         val downloadedCount by viewModel.downloadedCount.collectAsStateWithLifecycle()
+        val ready by viewModel.ready.collectAsStateWithLifecycle()
         val newVersion by viewModel.newVersion.collectAsStateWithLifecycle()
         val message by viewModel.message.collectAsStateWithLifecycle()
 
@@ -114,6 +115,7 @@ fun BomApp(viewModel: MainViewModel) {
                             manifest = viewModel.manifest,
                             progress = progress,
                             downloadedCount = downloadedCount,
+                            ready = ready,
                             downloadedIndices = remember(downloadedCount, viewModel.manifest) {
                                 viewModel.manifest.items
                                     .filter { viewModel.content.isDownloaded(it) }
@@ -187,6 +189,7 @@ private fun HomeScreen(
     manifest: ContentManifest,
     progress: Progress,
     downloadedCount: Int,
+    ready: Boolean,
     downloadedIndices: Set<Int>,
     onResume: () -> Unit,
     onPlayChapter: (Chapter) -> Unit,
@@ -230,20 +233,12 @@ private fun HomeScreen(
             }
         }
 
-        if (downloadedCount == 0) {
+        // Only after the first scan, so a completed download never shows this again.
+        if (ready && downloadedCount == 0) {
             item { DownloadOfferCard(onDownloadAll = onDownloadAll) }
         }
 
-        item { SectionHeader(stringResource(R.string.home_front_matter)) }
-
-        listItems(manifest.frontMatter, key = { it.index }) { chapter ->
-            ChapterRow(
-                chapter = chapter,
-                downloaded = chapter.index in downloadedIndices,
-                onClick = { onPlayChapter(chapter) },
-            )
-        }
-
+        // Books come first: choosing a book is the main action, front matter is incidental.
         item {
             SectionHeader(
                 stringResource(R.string.home_books) + "  ·  " +
@@ -251,11 +246,23 @@ private fun HomeScreen(
             )
         }
 
-        listItems(manifest.books, key = { it.index }) { book ->
+        // Keys must be unique across the WHOLE LazyColumn: the six front-matter items and
+        // the fifteen books would otherwise both claim keys 1..6 and crash on scroll.
+        listItems(manifest.books, key = { "book-${it.index}" }) { book ->
             BookRow(
                 book = book,
                 downloadedChapters = manifest.chaptersOf(book.index).count { it.index in downloadedIndices },
                 onClick = { onOpenBook(book.index) },
+            )
+        }
+
+        item { SectionHeader(stringResource(R.string.home_front_matter)) }
+
+        listItems(manifest.frontMatter, key = { "front-${it.index}" }) { chapter ->
+            ChapterRow(
+                chapter = chapter,
+                downloaded = chapter.index in downloadedIndices,
+                onClick = { onPlayChapter(chapter) },
             )
         }
     }
