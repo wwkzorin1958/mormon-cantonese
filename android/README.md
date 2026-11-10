@@ -94,10 +94,12 @@ base64 -w0 release.jks        # → KEYSTORE_BASE64
 
 ## Known gaps
 
-- **BuildConfig URLs are placeholders.** `FEED_URL`, `LATEST_URL` and `RELEASES_URL` in
-  `app/build.gradle.kts` still say `REPLACE-ME`. Streaming does nothing until they are real.
 - **Not run on a device.** The first launch, first playback and the screen-off test are
-  unverified.
+  unverified. Everything else is verified: it compiles, it signs, it is on the Release page,
+  and the audio URLs it streams from return HTTP 200 with range support.
+- **`FEED_URL`, `LATEST_URL`, `RELEASES_URL`** in `app/build.gradle.kts` point at
+  `wwkzorin1958.github.io/mormon-cantonese` and the GitHub Releases page. Change them only if
+  the repository is ever moved.
 - **No instrumented tests yet.** The manifest parser and the Chinese numerals live in the
   Python tooling, not here, so the risk is low — but the playback service deserves a smoke
   test.
