@@ -61,6 +61,7 @@ def main() -> int:
     ap.add_argument("--site-url", default="https://REPLACE-ME.github.io/mormon-cantonese/")
     ap.add_argument("--email", default="REPLACE-ME@example.com")
     ap.add_argument("--artwork", default="")
+    ap.add_argument("--app-version", default="1.0.0")
     ap.add_argument("--audio-dir", type=Path, default=Path("build/audio"))
     ap.add_argument("--start-date", default="2026-11-10", help="pubDate of item 0001")
     args = ap.parse_args()
@@ -166,7 +167,18 @@ def main() -> int:
     if "REPLACE-ME" in base or "REPLACE-ME" in site:
         print("\nWARNING: placeholder URLs still present. Re-run with --base-url and --site-url")
         print("         once the audio is on the Internet Archive and the feed is on GitHub Pages.")
+    # latest.json: one small request the app makes at startup for the version check.
+    latest = {
+        "appVersion": args.app_version,
+        "manifestGeneratedAt": manifest.get("generatedAt"),
+    }
+    latest_path = out.parent / "latest.json"
+    latest_path.write_text(
+        json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
     print(f"\nwrote {out}")
+    print(f"wrote {latest_path}")
     return 0
 
 

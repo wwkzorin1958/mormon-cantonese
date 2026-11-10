@@ -26,18 +26,17 @@ android {
         versionCode = 1
         versionName = "1.0.0"
 
-        // Replace these three with the real URLs after the feed is published.
         buildConfigField(
             "String", "FEED_URL",
-            "\"https://REPLACE-ME.github.io/mormon-cantonese/feed.xml\""
+            "\"https://wwkzorin1958.github.io/mormon-cantonese/feed.xml\""
         )
         buildConfigField(
             "String", "LATEST_URL",
-            "\"https://REPLACE-ME.github.io/mormon-cantonese/latest.json\""
+            "\"https://wwkzorin1958.github.io/mormon-cantonese/latest.json\""
         )
         buildConfigField(
             "String", "RELEASES_URL",
-            "\"https://github.com/REPLACE-ME/mormon-cantonese/releases/latest\""
+            "\"https://github.com/wwkzorin1958/mormon-cantonese/releases/latest\""
         )
     }
 
