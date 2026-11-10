@@ -1,0 +1,32 @@
+# Generated, too large, or rebuildable.
+# NOTE: no inline comments on pattern lines — git treats them as part of the pattern.
+build/audio/
+build/*.log
+build/*.tsv
+android/app/build/
+android/build/
+android/.gradle/
+artifacts/
+
+# Secrets and machine-specific settings.
+android/local.properties
+android/keystore.properties
+*.jks
+*.keystore
+
+# Committed on purpose, even though they live under build/.
+!build/manifest.json
+!build/manifest-review.csv
+!build/feed.xml
+!build/latest.json
+
+# Unrelated files that happen to sit in this working folder.
+*.msi
+*.cmd
+Remove-McAfeeLeftovers.ps1
+
+# OS / editor.
+Thumbs.db
+.DS_Store
+.idea/
+*.iml

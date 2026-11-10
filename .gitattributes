@@ -1,0 +1,14 @@
+# Normalise text files in the repo, but keep scripts LF so the Linux CI runner can run
+# ./gradlew without "bad interpreter: /bin/sh^M".
+* text=auto
+
+gradlew        text eol=lf
+*.sh           text eol=lf
+*.bat          text eol=crlf
+*.cmd          text eol=crlf
+
+*.jar          binary
+*.jpg          binary
+*.png          binary
+*.m4a          binary
+*.mp3          binary

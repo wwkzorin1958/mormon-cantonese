@@ -1,0 +1,2970 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>摩爾門經（廣東話）</title>
+    <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+    <language>zh-hk</language>
+    <description>摩爾門經廣東話錄音全書，共 245 段：六段前言與十五部書共二百三十九章。錄音：Celia Chi Mei Keung。免費收聽，不作販售。</description>
+    <lastBuildDate>Tue, 10 Nov 2026 12:08:00 +0000</lastBuildDate>
+    <generator>tools/build_feed.py</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <itunes:author>Celia Chi Mei Keung</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Celia Chi Mei Keung</itunes:name>
+      <itunes:email>REPLACE-ME@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://REPLACE-ME.github.io/mormon-cantonese/artwork.jpg" />
+    <image>
+      <url>https://REPLACE-ME.github.io/mormon-cantonese/artwork.jpg</url>
+      <title>摩爾門經（廣東話）</title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+    </image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <atom:link rel="self" type="application/rss+xml" href="https://REPLACE-ME.github.io/mormon-cantonese/feed.xml" />
+    <item>
+      <title>標題頁</title>
+      <itunes:title>標題頁</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0001</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>標題頁（2:44）</description>
+      <itunes:duration>00:02:44</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0001%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%A8%99%E9%A1%8C%E9%A0%81.m4a" length="1015485" type="audio/mp4" />
+    </item>
+    <item>
+      <title>緒言</title>
+      <itunes:title>緒言</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0002</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>緒言（4:57）</description>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0002%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E7%B7%92%E8%A8%80.m4a" length="1842304" type="audio/mp4" />
+    </item>
+    <item>
+      <title>三位證人的證詞</title>
+      <itunes:title>三位證人的證詞</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0003</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>三位證人的證詞（2:42）</description>
+      <itunes:duration>00:02:42</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0003%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%B8%89%E4%BD%8D%E8%AD%89%E4%BA%BA%E7%9A%84%E8%AD%89%E8%A9%9E.m4a" length="994494" type="audio/mp4" />
+    </item>
+    <item>
+      <title>八位證人的證詞</title>
+      <itunes:title>八位證人的證詞</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0004</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>八位證人的證詞（1:33）</description>
+      <itunes:duration>00:01:33</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0004%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%85%AB%E4%BD%8D%E8%AD%89%E4%BA%BA%E7%9A%84%E8%AD%89%E8%A9%9E.m4a" length="570755" type="audio/mp4" />
+    </item>
+    <item>
+      <title>先知約瑟·斯密的證詞</title>
+      <itunes:title>先知約瑟·斯密的證詞</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0005</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>先知約瑟·斯密的證詞（13:35）</description>
+      <itunes:duration>00:13:35</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0005%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%85%88%E7%9F%A5%E7%B4%84%E7%91%9F%20%E6%96%AF%E5%AF%86%E7%9A%84%E8%A8%BC%E8%A9%9E.m4a" length="5060379" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門經簡介</title>
+      <itunes:title>摩爾門經簡介</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0006</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門經簡介（5:42）</description>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0006%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%E7%B0%A1%E4%BB%8B.m4a" length="2116934" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第一章</title>
+      <itunes:title>尼腓一書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0007</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第一章（8:40）</description>
+      <itunes:duration>00:08:40</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0007%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="3241484" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第二章</title>
+      <itunes:title>尼腓一書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0008</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第二章（6:06）</description>
+      <itunes:duration>00:06:06</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0008%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="2264680" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第三章</title>
+      <itunes:title>尼腓一書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0009</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第三章（6:59）</description>
+      <itunes:duration>00:06:59</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0009%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="2609230" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第四章</title>
+      <itunes:title>尼腓一書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0010</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第四章（8:04）</description>
+      <itunes:duration>00:08:04</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0010%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="3012302" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第五章</title>
+      <itunes:title>尼腓一書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0011</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第五章（5:39）</description>
+      <itunes:duration>00:05:39</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0011%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="2104109" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第六章</title>
+      <itunes:title>尼腓一書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0012</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第六章（1:56）</description>
+      <itunes:duration>00:01:56</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0012%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="725547" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第七章</title>
+      <itunes:title>尼腓一書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0013</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第七章（7:25）</description>
+      <itunes:duration>00:07:25</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0013%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="2752821" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第八章</title>
+      <itunes:title>尼腓一書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0014</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第八章（8:22）</description>
+      <itunes:duration>00:08:22</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0014%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="3126171" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第九章</title>
+      <itunes:title>尼腓一書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0015</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第九章（2:26）</description>
+      <itunes:duration>00:02:26</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0015%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="908057" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十章</title>
+      <itunes:title>尼腓一書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0016</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十章（7:12）</description>
+      <itunes:duration>00:07:12</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0016%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="2690562" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十一章</title>
+      <itunes:title>尼腓一書第十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0017</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十一章（9:00）</description>
+      <itunes:duration>00:09:00</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0017%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="3352140" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十二章</title>
+      <itunes:title>尼腓一書第十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0018</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十二章（6:07）</description>
+      <itunes:duration>00:06:07</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0018%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="2281023" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十三章</title>
+      <itunes:title>尼腓一書第十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0019</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十三章（12:00）</description>
+      <itunes:duration>00:12:00</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0019%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="4475513" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十四章</title>
+      <itunes:title>尼腓一書第十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0020</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十四章（8:44）</description>
+      <itunes:duration>00:08:44</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0020%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="3236783" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十五章</title>
+      <itunes:title>尼腓一書第十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0021</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十五章（9:50）</description>
+      <itunes:duration>00:09:50</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0021%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="3666967" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十六章</title>
+      <itunes:title>尼腓一書第十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0022</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十六章（11:01）</description>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0022%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="4110237" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十七章</title>
+      <itunes:title>尼腓一書第十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0023</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十七章（15:33）</description>
+      <itunes:duration>00:15:33</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0023%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="5804735" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十八章</title>
+      <itunes:title>尼腓一書第十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0024</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十八章（7:47）</description>
+      <itunes:duration>00:07:47</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0024%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="2907870" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第十九章</title>
+      <itunes:title>尼腓一書第十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0025</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第十九章（9:04）</description>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0025%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="3380584" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第二十章</title>
+      <itunes:title>尼腓一書第二十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0026</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第二十章（5:19）</description>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0026%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E7%AB%A0.m4a" length="1972204" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第二十一章</title>
+      <itunes:title>尼腓一書第二十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0027</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第二十一章（6:50）</description>
+      <itunes:duration>00:06:50</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0027%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="2557124" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓一書第二十二章</title>
+      <itunes:title>尼腓一書第二十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0028</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓一書第二十二章（9:55）</description>
+      <itunes:duration>00:09:55</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0028%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%80%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="3687503" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第一章</title>
+      <itunes:title>尼腓二書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0029</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第一章（10:15）</description>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0029%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="3814754" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二章</title>
+      <itunes:title>尼腓二書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0030</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二章（10:04）</description>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0030%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="3762517" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第三章</title>
+      <itunes:title>尼腓二書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0031</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第三章（7:24）</description>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0031%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="2765050" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第四章</title>
+      <itunes:title>尼腓二書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0032</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第四章（8:34）</description>
+      <itunes:duration>00:08:34</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0032%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="3203927" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第五章</title>
+      <itunes:title>尼腓二書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0033</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第五章（7:12）</description>
+      <itunes:duration>00:07:12</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0033%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="2689236" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第六章</title>
+      <itunes:title>尼腓二書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0034</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第六章（5:41）</description>
+      <itunes:duration>00:05:41</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0034%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="2127473" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第七章</title>
+      <itunes:title>尼腓二書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0035</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第七章（3:04）</description>
+      <itunes:duration>00:03:04</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0035%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="1143555" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第八章</title>
+      <itunes:title>尼腓二書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0036</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第八章（5:59）</description>
+      <itunes:duration>00:05:59</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0036%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="2230488" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第九章</title>
+      <itunes:title>尼腓二書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0037</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第九章（16:03）</description>
+      <itunes:duration>00:16:03</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0037%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="5999740" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十章</title>
+      <itunes:title>尼腓二書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0038</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十章（6:59）</description>
+      <itunes:duration>00:06:59</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0038%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="2608485" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十一章</title>
+      <itunes:title>尼腓二書第十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0039</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十一章（2:40）</description>
+      <itunes:duration>00:02:40</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0039%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="996904" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十二章</title>
+      <itunes:title>尼腓二書第十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0040</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十二章（4:34）</description>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0040%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="1706235" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十三章</title>
+      <itunes:title>尼腓二書第十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0041</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十三章（4:14）</description>
+      <itunes:duration>00:04:14</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0041%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="1577672" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十四章</title>
+      <itunes:title>尼腓二書第十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0042</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十四章（1:40）</description>
+      <itunes:duration>00:01:40</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0042%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="621303" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十五章</title>
+      <itunes:title>尼腓二書第十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0043</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十五章（6:19）</description>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0043%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2359921" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十六章</title>
+      <itunes:title>尼腓二書第十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0044</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十六章（2:42）</description>
+      <itunes:duration>00:02:42</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0044%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="1002992" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十七章</title>
+      <itunes:title>尼腓二書第十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0045</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十七章（4:12）</description>
+      <itunes:duration>00:04:12</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0045%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="1566789" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十八章</title>
+      <itunes:title>尼腓二書第十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0046</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十八章（4:10）</description>
+      <itunes:duration>00:04:10</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0046%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="1555336" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第十九章</title>
+      <itunes:title>尼腓二書第十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0047</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第十九章（4:12）</description>
+      <itunes:duration>00:04:12</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0047%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="1569628" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十章</title>
+      <itunes:title>尼腓二書第二十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0048</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十章（6:31）</description>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0048%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E7%AB%A0.m4a" length="2435014" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十一章</title>
+      <itunes:title>尼腓二書第二十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0049</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十一章（3:35）</description>
+      <itunes:duration>00:03:35</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0049%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="1342261" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十二章</title>
+      <itunes:title>尼腓二書第二十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0050</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十二章（1:24）</description>
+      <itunes:duration>00:01:24</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0050%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="524766" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十三章</title>
+      <itunes:title>尼腓二書第二十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0051</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十三章（4:29）</description>
+      <itunes:duration>00:04:29</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0051%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="1669121" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十四章</title>
+      <itunes:title>尼腓二書第二十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0052</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十四章（6:28）</description>
+      <itunes:duration>00:06:28</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0052%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="2421506" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十五章</title>
+      <itunes:title>尼腓二書第二十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0053</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十五章（12:07）</description>
+      <itunes:duration>00:12:07</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0053%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="4531171" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十六章</title>
+      <itunes:title>尼腓二書第二十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0054</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十六章（11:04）</description>
+      <itunes:duration>00:11:04</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0054%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="4140058" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十七章</title>
+      <itunes:title>尼腓二書第二十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0055</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十七章（9:46）</description>
+      <itunes:duration>00:09:46</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0055%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="3650748" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十八章</title>
+      <itunes:title>尼腓二書第二十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0056</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十八章（8:19）</description>
+      <itunes:duration>00:08:19</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0056%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="3108501" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第二十九章</title>
+      <itunes:title>尼腓二書第二十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0057</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第二十九章（5:57）</description>
+      <itunes:duration>00:05:57</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0057%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="2225015" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第三十章</title>
+      <itunes:title>尼腓二書第三十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0058</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第三十章（4:35）</description>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0058%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E7%AB%A0.m4a" length="1710259" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第三十一章</title>
+      <itunes:title>尼腓二書第三十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0059</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第三十一章（7:06）</description>
+      <itunes:duration>00:07:06</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0059%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="2649680" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第三十二章</title>
+      <itunes:title>尼腓二書第三十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0060</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第三十二章（3:02）</description>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0060%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="1130421" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓二書第三十三章</title>
+      <itunes:title>尼腓二書第三十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0061</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description>尼腓二書第三十三章（5:03）</description>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0061%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%BA%8C%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="1882805" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅各書第一章</title>
+      <itunes:title>雅各書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0062</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅各書第一章（5:28）</description>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0062%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E5%90%84%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="2042136" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅各書第二章</title>
+      <itunes:title>雅各書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0063</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅各書第二章（9:38）</description>
+      <itunes:duration>00:09:38</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0063%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E5%90%84%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="3597627" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅各書第三章</title>
+      <itunes:title>雅各書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0064</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅各書第三章（4:43）</description>
+      <itunes:duration>00:04:43</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0064%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E5%90%84%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="1759856" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅各書第四章</title>
+      <itunes:title>雅各書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0065</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅各書第四章（7:34）</description>
+      <itunes:duration>00:07:34</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0065%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E5%90%84%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="2827102" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅各書第五章</title>
+      <itunes:title>雅各書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0066</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅各書第五章（22:50）</description>
+      <itunes:duration>00:22:50</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0066%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E5%90%84%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="8529469" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅各書第六章</title>
+      <itunes:title>雅各書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0067</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅各書第六章（3:59）</description>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0067%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E5%90%84%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="1490382" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅各書第七章</title>
+      <itunes:title>雅各書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0068</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅各書第七章（8:14）</description>
+      <itunes:duration>00:08:14</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0068%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E5%90%84%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="3077009" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以挪士書第一章</title>
+      <itunes:title>以挪士書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0069</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>以挪士書第一章（8:15）</description>
+      <itunes:duration>00:08:15</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0069%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E6%8C%AA%E5%A3%AB%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="3081781" type="audio/mp4" />
+    </item>
+    <item>
+      <title>雅龍書第一章</title>
+      <itunes:title>雅龍書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0070</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>雅龍書第一章（4:50）</description>
+      <itunes:duration>00:04:50</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0070%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%9B%85%E9%BE%8D%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="1800316" type="audio/mp4" />
+    </item>
+    <item>
+      <title>奧母乃書第一章</title>
+      <itunes:title>奧母乃書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0071</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>奧母乃書第一章（9:32）</description>
+      <itunes:duration>00:09:32</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0071%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%A5%A7%E6%AF%8D%E4%B9%83%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="3566257" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門語第一章</title>
+      <itunes:title>摩爾門語第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0072</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門語第一章（6:00）</description>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0072%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E8%AA%9E%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="2246814" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第一章</title>
+      <itunes:title>摩賽亞書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0073</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第一章（6:46）</description>
+      <itunes:duration>00:06:46</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0073%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="2531539" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二章</title>
+      <itunes:title>摩賽亞書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0074</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二章（13:59）</description>
+      <itunes:duration>00:13:59</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0074%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="5227908" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第三章</title>
+      <itunes:title>摩賽亞書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0075</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第三章（8:38）</description>
+      <itunes:duration>00:08:38</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0075%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="3229872" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第四章</title>
+      <itunes:title>摩賽亞書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0076</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第四章（11:27）</description>
+      <itunes:duration>00:11:27</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0076%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="4279127" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第五章</title>
+      <itunes:title>摩賽亞書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0077</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第五章（5:04）</description>
+      <itunes:duration>00:05:04</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0077%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="1896053" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第六章</title>
+      <itunes:title>摩賽亞書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0078</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第六章（2:16）</description>
+      <itunes:duration>00:02:16</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0078%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="843290" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第七章</title>
+      <itunes:title>摩賽亞書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0079</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第七章（9:51）</description>
+      <itunes:duration>00:09:51</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0079%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="3679821" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第八章</title>
+      <itunes:title>摩賽亞書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0080</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第八章（6:16）</description>
+      <itunes:duration>00:06:16</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0080%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="2336893" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第九章</title>
+      <itunes:title>摩賽亞書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0081</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第九章（5:56）</description>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0081%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="2215163" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十章</title>
+      <itunes:title>摩賽亞書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0082</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十章（5:46）</description>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0082%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="2154793" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十一章</title>
+      <itunes:title>摩賽亞書第十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0083</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十一章（8:04）</description>
+      <itunes:duration>00:08:04</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0083%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="3014287" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十二章</title>
+      <itunes:title>摩賽亞書第十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0084</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十二章（9:00）</description>
+      <itunes:duration>00:09:00</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0084%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="3358855" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十三章</title>
+      <itunes:title>摩賽亞書第十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0085</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十三章（7:00）</description>
+      <itunes:duration>00:07:00</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0085%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="2613007" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十四章</title>
+      <itunes:title>摩賽亞書第十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0086</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十四章（3:34）</description>
+      <itunes:duration>00:03:34</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0086%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="1313784" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十五章</title>
+      <itunes:title>摩賽亞書第十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0087</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十五章（8:13）</description>
+      <itunes:duration>00:08:13</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0087%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="3044257" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十六章</title>
+      <itunes:title>摩賽亞書第十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0088</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十六章（4:27）</description>
+      <itunes:duration>00:04:27</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0088%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="1659253" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十七章</title>
+      <itunes:title>摩賽亞書第十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0089</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十七章（4:35）</description>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0089%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="1709254" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十八章</title>
+      <itunes:title>摩賽亞書第十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0090</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十八章（9:47）</description>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0090%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="3658061" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第十九章</title>
+      <itunes:title>摩賽亞書第十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0091</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第十九章（6:28）</description>
+      <itunes:duration>00:06:28</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0091%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="2416868" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十章</title>
+      <itunes:title>摩賽亞書第二十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0092</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十章（6:26）</description>
+      <itunes:duration>00:06:26</itunes:duration>
+      <itunes:episode>92</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0092%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E7%AB%A0.m4a" length="2391991" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十一章</title>
+      <itunes:title>摩賽亞書第二十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0093</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十一章（8:54）</description>
+      <itunes:duration>00:08:54</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0093%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="3324073" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十二章</title>
+      <itunes:title>摩賽亞書第二十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0094</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十二章（4:02）</description>
+      <itunes:duration>00:04:02</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0094%20%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="1510302" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十三章</title>
+      <itunes:title>摩賽亞書第二十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0095</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十三章（8:15）</description>
+      <itunes:duration>00:08:15</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0095%20%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="3085848" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十四章</title>
+      <itunes:title>摩賽亞書第二十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0096</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十四章（6:28）</description>
+      <itunes:duration>00:06:28</itunes:duration>
+      <itunes:episode>96</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0096%20%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="2414282" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十五章</title>
+      <itunes:title>摩賽亞書第二十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0097</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十五章（5:50）</description>
+      <itunes:duration>00:05:50</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0097%20%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2183328" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十六章</title>
+      <itunes:title>摩賽亞書第二十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0098</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十六章（8:40）</description>
+      <itunes:duration>00:08:40</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0098%20%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="3239442" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十七章</title>
+      <itunes:title>摩賽亞書第二十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0099</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十七章（12:23）</description>
+      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/0099%20%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="4630212" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十八章</title>
+      <itunes:title>摩賽亞書第二十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0100</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十八章（5:34）</description>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00100%20%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="2082662" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩賽亞書第二十九章</title>
+      <itunes:title>摩賽亞書第二十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0101</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <description>摩賽亞書第二十九章（13:00）</description>
+      <itunes:duration>00:13:00</itunes:duration>
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00101%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E8%B3%BD%E4%BA%9E%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="4862919" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第一章</title>
+      <itunes:title>阿爾瑪書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0102</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第一章（10:46）</description>
+      <itunes:duration>00:10:46</itunes:duration>
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00102%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="4024246" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二章</title>
+      <itunes:title>阿爾瑪書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0103</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二章（9:11）</description>
+      <itunes:duration>00:09:11</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00103%20%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="3431293" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三章</title>
+      <itunes:title>阿爾瑪書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0104</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三章（6:58）</description>
+      <itunes:duration>00:06:58</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00104%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="2603448" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四章</title>
+      <itunes:title>阿爾瑪書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0105</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四章（7:14）</description>
+      <itunes:duration>00:07:14</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00105%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="2704916" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五章</title>
+      <itunes:title>阿爾瑪書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0106</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五章（21:41）</description>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00106%20%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="8100954" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第六章</title>
+      <itunes:title>阿爾瑪書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0107</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第六章（3:01）</description>
+      <itunes:duration>00:03:01</itunes:duration>
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00107%20%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="1128435" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第七章</title>
+      <itunes:title>阿爾瑪書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0108</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第七章（10:58）</description>
+      <itunes:duration>00:10:58</itunes:duration>
+      <itunes:episode>108</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00108%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="4100174" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第八章</title>
+      <itunes:title>阿爾瑪書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0109</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第八章（9:08）</description>
+      <itunes:duration>00:09:08</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00109%20%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="3414480" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第九章</title>
+      <itunes:title>阿爾瑪書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0110</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第九章（11:22）</description>
+      <itunes:duration>00:11:22</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00110%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="4243410" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十章</title>
+      <itunes:title>阿爾瑪書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0111</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十章（10:21）</description>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00111%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="3855550" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十一章</title>
+      <itunes:title>阿爾瑪書第十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0112</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十一章（10:56）</description>
+      <itunes:duration>00:10:56</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00112%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="4087390" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十二章</title>
+      <itunes:title>阿爾瑪書第十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0113</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十二章（14:49）</description>
+      <itunes:duration>00:14:49</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00113%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="5534512" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十三章</title>
+      <itunes:title>阿爾瑪書第十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0114</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十三章（10:47）</description>
+      <itunes:duration>00:10:47</itunes:duration>
+      <itunes:episode>114</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00114%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93-%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="4029839" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十四章</title>
+      <itunes:title>阿爾瑪書第十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0115</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十四章（11:05）</description>
+      <itunes:duration>00:11:05</itunes:duration>
+      <itunes:episode>115</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00115%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="4143776" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十五章</title>
+      <itunes:title>阿爾瑪書第十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0116</guid>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十五章（5:32）</description>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:episode>116</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00116%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2065625" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十六章</title>
+      <itunes:title>阿爾瑪書第十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0117</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十六章（6:43）</description>
+      <itunes:duration>00:06:43</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00117%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="2511897" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十七章</title>
+      <itunes:title>阿爾瑪書第十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0118</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十七章（13:07）</description>
+      <itunes:duration>00:13:07</itunes:duration>
+      <itunes:episode>118</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00118%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="4902910" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十八章</title>
+      <itunes:title>阿爾瑪書第十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0119</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十八章（11:27）</description>
+      <itunes:duration>00:11:27</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00119%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="4278283" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第十九章</title>
+      <itunes:title>阿爾瑪書第十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0120</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第十九章（11:47）</description>
+      <itunes:duration>00:11:47</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00120%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="4407878" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十章</title>
+      <itunes:title>阿爾瑪書第二十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0121</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十章（8:11）</description>
+      <itunes:duration>00:08:11</itunes:duration>
+      <itunes:episode>121</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00121%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E7%AB%A0.m4a" length="3053229" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十一章</title>
+      <itunes:title>阿爾瑪書第二十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0122</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十一章（7:06）</description>
+      <itunes:duration>00:07:06</itunes:duration>
+      <itunes:episode>122</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00122%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="2653896" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十二章</title>
+      <itunes:title>阿爾瑪書第二十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0123</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十二章（12:31）</description>
+      <itunes:duration>00:12:31</itunes:duration>
+      <itunes:episode>123</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00123%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="4660823" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十三章</title>
+      <itunes:title>阿爾瑪書第二十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0124</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十三章（5:26）</description>
+      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:episode>124</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00124%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="2030203" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十四章</title>
+      <itunes:title>阿爾瑪書第二十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0125</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十四章（10:42）</description>
+      <itunes:duration>00:10:42</itunes:duration>
+      <itunes:episode>125</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00125%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="3990107" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十五章</title>
+      <itunes:title>阿爾瑪書第二十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0126</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十五章（5:35）</description>
+      <itunes:duration>00:05:35</itunes:duration>
+      <itunes:episode>126</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00126%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2087100" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十六章</title>
+      <itunes:title>阿爾瑪書第二十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0127</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十六章（13:40）</description>
+      <itunes:duration>00:13:40</itunes:duration>
+      <itunes:episode>127</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00127%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="5087428" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十七章</title>
+      <itunes:title>阿爾瑪書第二十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0128</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十七章（8:50）</description>
+      <itunes:duration>00:08:50</itunes:duration>
+      <itunes:episode>128</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00128%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="3303410" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十八章</title>
+      <itunes:title>阿爾瑪書第二十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0129</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十八章（4:38）</description>
+      <itunes:duration>00:04:38</itunes:duration>
+      <itunes:episode>129</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00129%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="1727526" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第二十九章</title>
+      <itunes:title>阿爾瑪書第二十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0130</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第二十九章（5:51）</description>
+      <itunes:duration>00:05:51</itunes:duration>
+      <itunes:episode>130</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00130%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="2185156" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十章</title>
+      <itunes:title>阿爾瑪書第三十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0131</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十章（17:55）</description>
+      <itunes:duration>00:17:55</itunes:duration>
+      <itunes:episode>131</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00131%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E7%AB%A0.m4a" length="6685969" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十一章</title>
+      <itunes:title>阿爾瑪書第三十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0132</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十一章（10:11）</description>
+      <itunes:duration>00:10:11</itunes:duration>
+      <itunes:episode>132</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00132%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="3798940" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十二章</title>
+      <itunes:title>阿爾瑪書第三十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0133</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十二章（13:46）</description>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:episode>133</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00133%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="5148079" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十三章</title>
+      <itunes:title>阿爾瑪書第三十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0134</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十三章（6:39）</description>
+      <itunes:duration>00:06:39</itunes:duration>
+      <itunes:episode>134</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00134%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="2487516" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十四章</title>
+      <itunes:title>阿爾瑪書第三十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0135</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十四章（12:41）</description>
+      <itunes:duration>00:12:41</itunes:duration>
+      <itunes:episode>135</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00135%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="4723778" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十五章</title>
+      <itunes:title>阿爾瑪書第三十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0136</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十五章（4:33）</description>
+      <itunes:duration>00:04:33</itunes:duration>
+      <itunes:episode>136</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00136%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="1697452" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十六章</title>
+      <itunes:title>阿爾瑪書第三十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0137</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十六章（9:47）</description>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:episode>137</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00137%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="3635414" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十七章</title>
+      <itunes:title>阿爾瑪書第三十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0138</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十七章（17:05）</description>
+      <itunes:duration>00:17:05</itunes:duration>
+      <itunes:episode>138</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00138%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="6362079" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十八章</title>
+      <itunes:title>阿爾瑪書第三十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0139</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十八章（5:10）</description>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:episode>139</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00139%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="1926492" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第三十九章</title>
+      <itunes:title>阿爾瑪書第三十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0140</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第三十九章（6:13）</description>
+      <itunes:duration>00:06:13</itunes:duration>
+      <itunes:episode>140</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00140%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="2323383" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十章</title>
+      <itunes:title>阿爾瑪書第四十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0141</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十章（8:32）</description>
+      <itunes:duration>00:08:32</itunes:duration>
+      <itunes:episode>141</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00141%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E7%AB%A0.m4a" length="3186817" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十一章</title>
+      <itunes:title>阿爾瑪書第四十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0142</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十一章（5:55）</description>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:episode>142</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00142%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="2205922" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十二章</title>
+      <itunes:title>阿爾瑪書第四十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0143</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十二章（9:52）</description>
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:episode>143</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00143%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="3684349" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十三章</title>
+      <itunes:title>阿爾瑪書第四十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0144</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十三章（13:14）</description>
+      <itunes:duration>00:13:14</itunes:duration>
+      <itunes:episode>144</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00144%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="4939702" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十四章</title>
+      <itunes:title>阿爾瑪書第四十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0145</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十四章（8:10）</description>
+      <itunes:duration>00:08:10</itunes:duration>
+      <itunes:episode>145</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00145%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="3052191" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十五章</title>
+      <itunes:title>阿爾瑪書第四十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0146</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十五章（6:25）</description>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:episode>146</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00146%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2396343" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十六章</title>
+      <itunes:title>阿爾瑪書第四十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0147</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十六章（12:21）</description>
+      <itunes:duration>00:12:21</itunes:duration>
+      <itunes:episode>147</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00147%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="4616096" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十七章</title>
+      <itunes:title>阿爾瑪書第四十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0148</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十七章（9:04）</description>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:episode>148</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00148%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="3381914" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十八章</title>
+      <itunes:title>阿爾瑪書第四十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0149</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十八章（8:00）</description>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:episode>149</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00149%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="2987534" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第四十九章</title>
+      <itunes:title>阿爾瑪書第四十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0150</guid>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第四十九章（8:41）</description>
+      <itunes:duration>00:08:41</itunes:duration>
+      <itunes:episode>150</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00150%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="3227716" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十章</title>
+      <itunes:title>阿爾瑪書第五十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0151</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十章（11:16）</description>
+      <itunes:duration>00:11:16</itunes:duration>
+      <itunes:episode>151</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00151%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E7%AB%A0.m4a" length="4194376" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十一章</title>
+      <itunes:title>阿爾瑪書第五十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0152</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十一章（11:03）</description>
+      <itunes:duration>00:11:03</itunes:duration>
+      <itunes:episode>152</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00152%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="4131949" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十二章</title>
+      <itunes:title>阿爾瑪書第五十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0153</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十二章（10:24）</description>
+      <itunes:duration>00:10:24</itunes:duration>
+      <itunes:episode>153</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00153%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="3863326" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十三章</title>
+      <itunes:title>阿爾瑪書第五十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0154</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十三章（6:51）</description>
+      <itunes:duration>00:06:51</itunes:duration>
+      <itunes:episode>154</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00154%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="2559294" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十四章</title>
+      <itunes:title>阿爾瑪書第五十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0155</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十四章（7:17）</description>
+      <itunes:duration>00:07:17</itunes:duration>
+      <itunes:episode>155</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00155%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="2725314" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十五章</title>
+      <itunes:title>阿爾瑪書第五十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0156</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十五章（7:54）</description>
+      <itunes:duration>00:07:54</itunes:duration>
+      <itunes:episode>156</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00156%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2950335" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十六章</title>
+      <itunes:title>阿爾瑪書第五十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0157</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十六章（14:31）</description>
+      <itunes:duration>00:14:31</itunes:duration>
+      <itunes:episode>157</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00157%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="5427238" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十七章</title>
+      <itunes:title>阿爾瑪書第五十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0158</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十七章（9:38）</description>
+      <itunes:duration>00:09:38</itunes:duration>
+      <itunes:episode>158</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00158%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="3600656" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十八章</title>
+      <itunes:title>阿爾瑪書第五十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0159</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十八章（10:14）</description>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:episode>159</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00159%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="3823650" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第五十九章</title>
+      <itunes:title>阿爾瑪書第五十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0160</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第五十九章（2:59）</description>
+      <itunes:duration>00:02:59</itunes:duration>
+      <itunes:episode>160</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00160%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="1111933" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第六十章</title>
+      <itunes:title>阿爾瑪書第六十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0161</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第六十章（12:19）</description>
+      <itunes:duration>00:12:19</itunes:duration>
+      <itunes:episode>161</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00161%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%85%AD%E5%8D%81%E7%AB%A0.m4a" length="4605617" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第六十一章</title>
+      <itunes:title>阿爾瑪書第六十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0162</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第六十一章（5:52）</description>
+      <itunes:duration>00:05:52</itunes:duration>
+      <itunes:episode>162</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00162%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%85%AD%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="2191616" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第六十二章</title>
+      <itunes:title>阿爾瑪書第六十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0163</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第六十二章（13:10）</description>
+      <itunes:duration>00:13:10</itunes:duration>
+      <itunes:episode>163</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00163%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%85%AD%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="4912583" type="audio/mp4" />
+    </item>
+    <item>
+      <title>阿爾瑪書第六十三章</title>
+      <itunes:title>阿爾瑪書第六十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0164</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <description>阿爾瑪書第六十三章（4:16）</description>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:episode>164</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00164%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E9%98%BF%E7%88%BE%E7%91%AA%E6%9B%B8%E7%AC%AC%E5%85%AD%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="1595096" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第一章</title>
+      <itunes:title>希拉曼書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0165</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第一章（9:08）</description>
+      <itunes:duration>00:09:08</itunes:duration>
+      <itunes:episode>165</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00165%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="3407379" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第二章</title>
+      <itunes:title>希拉曼書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0166</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第二章（4:10）</description>
+      <itunes:duration>00:04:10</itunes:duration>
+      <itunes:episode>166</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00166%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="1556127" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第三章</title>
+      <itunes:title>希拉曼書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0167</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第三章（9:45）</description>
+      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:episode>167</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00167%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="3632998" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第四章</title>
+      <itunes:title>希拉曼書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0168</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第四章（7:02）</description>
+      <itunes:duration>00:07:02</itunes:duration>
+      <itunes:episode>168</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00168%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="2630957" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第五章</title>
+      <itunes:title>希拉曼書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0169</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第五章（15:12）</description>
+      <itunes:duration>00:15:12</itunes:duration>
+      <itunes:episode>169</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00169%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="5676902" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第六章</title>
+      <itunes:title>希拉曼書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0170</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第六章（11:20）</description>
+      <itunes:duration>00:11:20</itunes:duration>
+      <itunes:episode>170</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00170%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="4234949" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第七章</title>
+      <itunes:title>希拉曼書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0171</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第七章（8:20）</description>
+      <itunes:duration>00:08:20</itunes:duration>
+      <itunes:episode>171</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00171%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="3113276" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第八章</title>
+      <itunes:title>希拉曼書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0172</guid>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第八章（8:58）</description>
+      <itunes:duration>00:08:58</itunes:duration>
+      <itunes:episode>172</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00172%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="3346583" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第九章</title>
+      <itunes:title>希拉曼書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0173</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第九章（9:20）</description>
+      <itunes:duration>00:09:20</itunes:duration>
+      <itunes:episode>173</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00173%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="3486258" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第十章</title>
+      <itunes:title>希拉曼書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0174</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第十章（5:12）</description>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:episode>174</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00174%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="1936854" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第十一章</title>
+      <itunes:title>希拉曼書第十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0175</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第十一章（9:22）</description>
+      <itunes:duration>00:09:22</itunes:duration>
+      <itunes:episode>175</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00175%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="3484367" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第十二章</title>
+      <itunes:title>希拉曼書第十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0176</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第十二章（6:53）</description>
+      <itunes:duration>00:06:53</itunes:duration>
+      <itunes:episode>176</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00176%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="2570606" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第十三章</title>
+      <itunes:title>希拉曼書第十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0177</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第十三章（14:35）</description>
+      <itunes:duration>00:14:35</itunes:duration>
+      <itunes:episode>177</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00177%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="5445989" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第十四章</title>
+      <itunes:title>希拉曼書第十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0178</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第十四章（9:26）</description>
+      <itunes:duration>00:09:26</itunes:duration>
+      <itunes:episode>178</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00178%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="3530373" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第十五章</title>
+      <itunes:title>希拉曼書第十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0179</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第十五章（6:56）</description>
+      <itunes:duration>00:06:56</itunes:duration>
+      <itunes:episode>179</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00179%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2590422" type="audio/mp4" />
+    </item>
+    <item>
+      <title>希拉曼書第十六章</title>
+      <itunes:title>希拉曼書第十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0180</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>希拉曼書第十六章（7:15）</description>
+      <itunes:duration>00:07:15</itunes:duration>
+      <itunes:episode>180</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00180%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B8%8C%E6%8B%89%E6%9B%BC%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="2697369" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第一章</title>
+      <itunes:title>尼腓三書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0181</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第一章（9:54）</description>
+      <itunes:duration>00:09:54</itunes:duration>
+      <itunes:episode>181</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00181%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="3704913" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二章</title>
+      <itunes:title>尼腓三書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0182</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二章（5:22）</description>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:episode>182</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00182%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="1996881" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第三章</title>
+      <itunes:title>尼腓三書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0183</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第三章（9:25）</description>
+      <itunes:duration>00:09:25</itunes:duration>
+      <itunes:episode>183</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00183%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="3507408" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第四章</title>
+      <itunes:title>尼腓三書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0184</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第四章（8:42）</description>
+      <itunes:duration>00:08:42</itunes:duration>
+      <itunes:episode>184</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00184%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="3252003" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第五章</title>
+      <itunes:title>尼腓三書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0185</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第五章（6:08）</description>
+      <itunes:duration>00:06:08</itunes:duration>
+      <itunes:episode>185</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00185%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="2293538" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第六章</title>
+      <itunes:title>尼腓三書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0186</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第六章（7:35）</description>
+      <itunes:duration>00:07:35</itunes:duration>
+      <itunes:episode>186</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00186%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="2820333" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第七章</title>
+      <itunes:title>尼腓三書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0187</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第七章（8:00）</description>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:episode>187</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00187%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="2991539" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第八章</title>
+      <itunes:title>尼腓三書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0188</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第八章（6:38）</description>
+      <itunes:duration>00:06:38</itunes:duration>
+      <itunes:episode>188</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00188%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="2469237" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第九章</title>
+      <itunes:title>尼腓三書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0189</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第九章（8:23）</description>
+      <itunes:duration>00:08:23</itunes:duration>
+      <itunes:episode>189</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00189%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="3118416" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十章</title>
+      <itunes:title>尼腓三書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0190</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十章（7:05）</description>
+      <itunes:duration>00:07:05</itunes:duration>
+      <itunes:episode>190</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00190%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="2634265" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十一章</title>
+      <itunes:title>尼腓三書第十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0191</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十一章（10:41）</description>
+      <itunes:duration>00:10:41</itunes:duration>
+      <itunes:episode>191</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00191%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="3988403" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十二章</title>
+      <itunes:title>尼腓三書第十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0192</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十二章（11:22）</description>
+      <itunes:duration>00:11:22</itunes:duration>
+      <itunes:episode>192</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00192%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="4239855" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十三章</title>
+      <itunes:title>尼腓三書第十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0193</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十三章（7:52）</description>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:episode>193</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00193%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="2937449" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十四章</title>
+      <itunes:title>尼腓三書第十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0194</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十四章（5:11）</description>
+      <itunes:duration>00:05:11</itunes:duration>
+      <itunes:episode>194</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00194%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="1938538" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十五章</title>
+      <itunes:title>尼腓三書第十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0195</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十五章（6:15）</description>
+      <itunes:duration>00:06:15</itunes:duration>
+      <itunes:episode>195</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00195%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="2319746" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十六章</title>
+      <itunes:title>尼腓三書第十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0196</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十六章（7:05）</description>
+      <itunes:duration>00:07:05</itunes:duration>
+      <itunes:episode>196</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00196%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="2641688" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十七章</title>
+      <itunes:title>尼腓三書第十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0197</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十七章（7:42）</description>
+      <itunes:duration>00:07:42</itunes:duration>
+      <itunes:episode>197</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00197%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="2872925" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十八章</title>
+      <itunes:title>尼腓三書第十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0198</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十八章（10:18）</description>
+      <itunes:duration>00:10:18</itunes:duration>
+      <itunes:episode>198</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00198%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="3849238" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第十九章</title>
+      <itunes:title>尼腓三書第十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0199</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第十九章（8:58）</description>
+      <itunes:duration>00:08:58</itunes:duration>
+      <itunes:episode>199</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00199%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="3351593" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十章</title>
+      <itunes:title>尼腓三書第二十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0200</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十章（11:16）</description>
+      <itunes:duration>00:11:16</itunes:duration>
+      <itunes:episode>200</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00200%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E7%AB%A0.m4a" length="4175456" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十一章</title>
+      <itunes:title>尼腓三書第二十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0201</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十一章（7:57）</description>
+      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:episode>201</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00201%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93-%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="2972075" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十二章</title>
+      <itunes:title>尼腓三書第二十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0202</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十二章（3:59）</description>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:episode>202</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00202%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93-%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="1481167" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十三章</title>
+      <itunes:title>尼腓三書第二十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0203</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十三章（3:05）</description>
+      <itunes:duration>00:03:05</itunes:duration>
+      <itunes:episode>203</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00203%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93-%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="1153744" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十四章</title>
+      <itunes:title>尼腓三書第二十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0204</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十四章（4:42）</description>
+      <itunes:duration>00:04:42</itunes:duration>
+      <itunes:episode>204</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00204%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="1755450" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十五章</title>
+      <itunes:title>尼腓三書第二十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0205</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十五章（1:38）</description>
+      <itunes:duration>00:01:38</itunes:duration>
+      <itunes:episode>205</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00205%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="610447" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十六章</title>
+      <itunes:title>尼腓三書第二十六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0206</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十六章（5:48）</description>
+      <itunes:duration>00:05:48</itunes:duration>
+      <itunes:episode>206</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00206%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E7%AB%A0.m4a" length="2160008" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十七章</title>
+      <itunes:title>尼腓三書第二十七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0207</guid>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十七章（10:08）</description>
+      <itunes:duration>00:10:08</itunes:duration>
+      <itunes:episode>207</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00207%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E7%AB%A0.m4a" length="3788200" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十八章</title>
+      <itunes:title>尼腓三書第二十八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0208</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十八章（10:54）</description>
+      <itunes:duration>00:10:54</itunes:duration>
+      <itunes:episode>208</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00208%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E7%AB%A0.m4a" length="4075795" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第二十九章</title>
+      <itunes:title>尼腓三書第二十九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0209</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第二十九章（2:49）</description>
+      <itunes:duration>00:02:49</itunes:duration>
+      <itunes:episode>209</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00209%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E7%AB%A0.m4a" length="1044730" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓三書第三十章</title>
+      <itunes:title>尼腓三書第三十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0210</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓三書第三十章（1:14）</description>
+      <itunes:duration>00:01:14</itunes:duration>
+      <itunes:episode>210</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00210%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E4%B8%89%E6%9B%B8%E7%AC%AC%E4%B8%89%E5%8D%81%E7%AB%A0.m4a" length="459174" type="audio/mp4" />
+    </item>
+    <item>
+      <title>尼腓四書第一章</title>
+      <itunes:title>尼腓四書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0211</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <description>尼腓四書第一章（12:13）</description>
+      <itunes:duration>00:12:13</itunes:duration>
+      <itunes:episode>211</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00211%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E5%B0%BC%E8%85%93%E5%9B%9B%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="4563965" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第一章</title>
+      <itunes:title>摩爾門書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0212</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第一章（4:54）</description>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:episode>212</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00212%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="1827891" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第二章</title>
+      <itunes:title>摩爾門書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0213</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第二章（8:14）</description>
+      <itunes:duration>00:08:14</itunes:duration>
+      <itunes:episode>213</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00213%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="3031077" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第三章</title>
+      <itunes:title>摩爾門書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0214</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第三章（7:09）</description>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:episode>214</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00214%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="2674242" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第四章</title>
+      <itunes:title>摩爾門書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0215</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第四章（5:13）</description>
+      <itunes:duration>00:05:13</itunes:duration>
+      <itunes:episode>215</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00215%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="1947284" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第五章</title>
+      <itunes:title>摩爾門書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0216</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第五章（7:50）</description>
+      <itunes:duration>00:07:50</itunes:duration>
+      <itunes:episode>216</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00216%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="2931495" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第六章</title>
+      <itunes:title>摩爾門書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0217</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第六章（6:35）</description>
+      <itunes:duration>00:06:35</itunes:duration>
+      <itunes:episode>217</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00217%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="2459720" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第七章</title>
+      <itunes:title>摩爾門書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0218</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第七章（3:32）</description>
+      <itunes:duration>00:03:32</itunes:duration>
+      <itunes:episode>218</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00218%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="1320501" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第八章</title>
+      <itunes:title>摩爾門書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0219</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第八章（13:20）</description>
+      <itunes:duration>00:13:20</itunes:duration>
+      <itunes:episode>219</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00219%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="4977386" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩爾門書第九章</title>
+      <itunes:title>摩爾門書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0220</guid>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <description>摩爾門書第九章（13:12）</description>
+      <itunes:duration>00:13:12</itunes:duration>
+      <itunes:episode>220</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00220%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%88%BE%E9%96%80%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="4938546" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第一章</title>
+      <itunes:title>以帖書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0221</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第一章（6:47）</description>
+      <itunes:duration>00:06:47</itunes:duration>
+      <itunes:episode>221</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00221%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="2531607" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第二章</title>
+      <itunes:title>以帖書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0222</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第二章（10:04）</description>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:episode>222</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00222%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="3764223" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第三章</title>
+      <itunes:title>以帖書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0223</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第三章（9:56）</description>
+      <itunes:duration>00:09:56</itunes:duration>
+      <itunes:episode>223</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00223%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="3713722" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第四章</title>
+      <itunes:title>以帖書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0224</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第四章（6:40）</description>
+      <itunes:duration>00:06:40</itunes:duration>
+      <itunes:episode>224</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00224%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="2486539" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第五章</title>
+      <itunes:title>以帖書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0225</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第五章（1:57）</description>
+      <itunes:duration>00:01:57</itunes:duration>
+      <itunes:episode>225</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00225%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93-%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="724790" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第六章</title>
+      <itunes:title>以帖書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0226</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第六章（6:57）</description>
+      <itunes:duration>00:06:57</itunes:duration>
+      <itunes:episode>226</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00226%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="2594652" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第七章</title>
+      <itunes:title>以帖書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0227</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第七章（6:20）</description>
+      <itunes:duration>00:06:20</itunes:duration>
+      <itunes:episode>227</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00227%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="2369949" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第八章</title>
+      <itunes:title>以帖書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0228</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第八章（8:08）</description>
+      <itunes:duration>00:08:08</itunes:duration>
+      <itunes:episode>228</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00228%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="3032075" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第九章</title>
+      <itunes:title>以帖書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0229</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第九章（9:14）</description>
+      <itunes:duration>00:09:14</itunes:duration>
+      <itunes:episode>229</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00229%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="3448136" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第十章</title>
+      <itunes:title>以帖書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0230</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第十章（8:50）</description>
+      <itunes:duration>00:08:50</itunes:duration>
+      <itunes:episode>230</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00230%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="3295503" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第十一章</title>
+      <itunes:title>以帖書第十一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0231</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第十一章（5:37）</description>
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:episode>231</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00231%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.m4a" length="2088638" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第十二章</title>
+      <itunes:title>以帖書第十二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0232</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第十二章（13:43）</description>
+      <itunes:duration>00:13:43</itunes:duration>
+      <itunes:episode>232</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00232%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.m4a" length="5125355" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第十三章</title>
+      <itunes:title>以帖書第十三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0233</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第十三章（8:50）</description>
+      <itunes:duration>00:08:50</itunes:duration>
+      <itunes:episode>233</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00233%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0.m4a" length="3274713" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第十四章</title>
+      <itunes:title>以帖書第十四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0234</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第十四章（7:10）</description>
+      <itunes:duration>00:07:10</itunes:duration>
+      <itunes:episode>234</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00234%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.m4a" length="2673507" type="audio/mp4" />
+    </item>
+    <item>
+      <title>以帖書第十五章</title>
+      <itunes:title>以帖書第十五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0235</guid>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <description>以帖書第十五章（9:09）</description>
+      <itunes:duration>00:09:09</itunes:duration>
+      <itunes:episode>235</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00235%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E4%BB%A5%E5%B8%96%E6%9B%B8%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.m4a" length="3418509" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第一章</title>
+      <itunes:title>摩羅乃書第一章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0236</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第一章（1:48）</description>
+      <itunes:duration>00:01:48</itunes:duration>
+      <itunes:episode>236</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00236%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E4%B8%80%E7%AB%A0.m4a" length="669443" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第二章</title>
+      <itunes:title>摩羅乃書第二章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0237</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第二章（1:22）</description>
+      <itunes:duration>00:01:22</itunes:duration>
+      <itunes:episode>237</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00237%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E4%BA%8C%E7%AB%A0.m4a" length="509314" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第三章</title>
+      <itunes:title>摩羅乃書第三章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0238</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第三章（1:37）</description>
+      <itunes:duration>00:01:37</itunes:duration>
+      <itunes:episode>238</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00238%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E4%B8%89%E7%AB%A0.m4a" length="601731" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第四章</title>
+      <itunes:title>摩羅乃書第四章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0239</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第四章（1:44）</description>
+      <itunes:duration>00:01:44</itunes:duration>
+      <itunes:episode>239</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00239%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E5%9B%9B%E7%AB%A0.m4a" length="643802" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第五章</title>
+      <itunes:title>摩羅乃書第五章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0240</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第五章（1:25）</description>
+      <itunes:duration>00:01:25</itunes:duration>
+      <itunes:episode>240</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00240%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E4%BA%94%E7%AB%A0.m4a" length="526962" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第六章</title>
+      <itunes:title>摩羅乃書第六章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0241</guid>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第六章（3:38）</description>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:episode>241</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00241%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E5%85%AD%E7%AB%A0.m4a" length="1357905" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第七章</title>
+      <itunes:title>摩羅乃書第七章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0242</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第七章（17:19）</description>
+      <itunes:duration>00:17:19</itunes:duration>
+      <itunes:episode>242</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00242%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E4%B8%83%E7%AB%A0.m4a" length="6464295" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第八章</title>
+      <itunes:title>摩羅乃書第八章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0243</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第八章（10:44）</description>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:episode>243</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00243%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E5%85%AB%E7%AB%A0.m4a" length="3996740" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第九章</title>
+      <itunes:title>摩羅乃書第九章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0244</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第九章（8:51）</description>
+      <itunes:duration>00:08:51</itunes:duration>
+      <itunes:episode>244</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00244%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E4%B9%9D%E7%AB%A0.m4a" length="3285191" type="audio/mp4" />
+    </item>
+    <item>
+      <title>摩羅乃書第十章</title>
+      <itunes:title>摩羅乃書第十章</itunes:title>
+      <link>https://REPLACE-ME.github.io/mormon-cantonese/</link>
+      <guid isPermaLink="false">kcmcelia-mormon-cantonese-0245</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <description>摩羅乃書第十章（11:23）</description>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:episode>245</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://archive.org/download/REPLACE-ME/00245%20%E6%91%A9%E7%88%BE%E9%96%80%E7%B6%93%20%E6%91%A9%E7%BE%85%E4%B9%83%E6%9B%B8%E7%AC%AC%E5%8D%81%E7%AB%A0.m4a" length="4244921" type="audio/mp4" />
+    </item>
+  </channel>
+</rss>

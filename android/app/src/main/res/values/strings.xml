@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">摩爾門經（廣東話）</string>
+
+    <!-- Home -->
+    <string name="home_continue">繼續聆聽</string>
+    <string name="home_resume">繼續</string>
+    <string name="home_front_matter">前言與見證</string>
+    <string name="home_books">十五部書</string>
+    <string name="home_chapter_count">%1$d 章</string>
+    <string name="home_not_started">由第一章開始</string>
+
+    <!-- Book -->
+    <string name="chapter_number">第 %1$d 章</string>
+    <string name="downloaded">已下載</string>
+    <string name="not_downloaded">未下載</string>
+    <string name="back">返回</string>
+
+    <!-- Player -->
+    <string name="play">播放</string>
+    <string name="pause">暫停</string>
+    <string name="next_chapter">下一章</string>
+    <string name="prev_chapter">上一章</string>
+    <string name="seek_back">後退 30 秒</string>
+    <string name="seek_forward">前進 30 秒</string>
+    <string name="speed">速度</string>
+    <string name="sleep_timer">睡眠計時</string>
+    <string name="sleep_off">關閉</string>
+    <string name="sleep_minutes">%1$d 分鐘</string>
+    <string name="sleep_end_of_chapter">本章完結</string>
+
+    <!-- Downloads -->
+    <string name="download_all">下載全部</string>
+    <string name="download_all_detail">約 %1$s，建議使用 Wi-Fi</string>
+    <string name="download_this_book">下載此書</string>
+    <string name="download_progress">已下載 %1$d / %2$d 段</string>
+    <string name="download_active">正在下載… %1$d%%</string>
+    <string name="download_wifi_only">只會在 Wi-Fi 連線時下載</string>
+    <string name="download_need_space">需要約 %1$s 可用空間</string>
+    <string name="download_no_space">儲存空間不足，未能開始下載。</string>
+    <string name="download_offer">下載全部，以後唔需要網絡</string>
+
+    <!-- Errors -->
+    <string name="offline_not_downloaded">此段未下載。</string>
+    <string name="offline_not_downloaded_action">連接網絡收聽，或先下載此書。</string>
+    <string name="no_audio_url">此段暫時沒有下載網址。</string>
+    <string name="playback_error">播放出錯，請再試一次。</string>
+
+    <!-- Settings -->
+    <string name="settings">設定</string>
+    <string name="settings_downloads">下載</string>
+    <string name="settings_storage">已使用 %1$s</string>
+    <string name="settings_battery">電池與背景播放</string>
+    <string name="settings_about">關於</string>
+    <string name="settings_version">版本 %1$s</string>
+    <string name="about_author">錄音：Celia Chi Mei Keung</string>
+    <string name="about_rights">經文屬公共領域；錄音版權屬錄音者。免費收聽與分享，不作販售。</string>
+    <string name="about_dedication">在很久以前，我有一個心願，希望能錄製廣東話版的摩爾門經，帶給有需要的人聆聽。</string>
+    <string name="new_version">有新版本可用</string>
+    <string name="new_version_action">前往下載</string>
+
+    <!-- Battery -->
+    <string name="battery_title">讓播放不被系統中止</string>
+    <string name="battery_explain">Android 會在鎖屏後暫停背景程式。允許本程式忽略電池優化，鎖屏後仍可繼續播放。</string>
+    <string name="battery_allow">允許背景播放</string>
+    <string name="battery_allowed">已允許背景播放</string>
+    <string name="battery_guide_title">各品牌額外設定</string>
+    <string name="battery_guide_generic">在「設定 → 應用程式 → 摩爾門經」中，允許自啟動與背景活動。</string>
+    <string name="battery_guide_xiaomi">小米 / Redmi：設定 → 應用程式 → 摩爾門經 → 自啟動（開啟）；省電策略設為「無限制」。</string>
+    <string name="battery_guide_huawei">華為 / 榮耀：設定 → 電池 → 應用程式啟動管理 → 摩爾門經 → 手動管理，全部開啟。</string>
+    <string name="battery_guide_oppo">OPPO / realme：設定 → 電池 → 應用程式耗電管理 → 摩爾門經 → 允許背景執行。</string>
+    <string name="battery_guide_vivo">vivo：設定 → 電池 → 背景耗電管理 → 摩爾門經 → 允許。</string>
+    <string name="battery_guide_samsung">Samsung：設定 → 電池 → 背景用量限制 → 將摩爾門經加入「永不休眠的應用程式」。</string>
+
+    <!-- First run -->
+    <string name="intro_title">歡迎</string>
+    <string name="intro_body">這是摩爾門經的廣東話錄音，全書 245 段，免費收聽。連接網絡即可即時播放；下載後可完全離線收聽。</string>
+    <string name="intro_start">開始</string>
+
+    <string name="notifications_needed">需要通知權限，才能在鎖屏顯示播放控制。</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+</resources>
