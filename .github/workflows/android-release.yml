@@ -26,7 +26,16 @@ jobs:
           distribution: temurin
           java-version: '17'
 
+      # Do NOT let setup-android install its default 'tools' package: that package was
+      # removed from Google's SDK repository and sdkmanager now exits 1.
       - uses: android-actions/setup-android@v3
+        with:
+          packages: 'platform-tools'
+
+      - name: Install SDK packages
+        run: |
+          yes | sdkmanager --licenses > /dev/null || true
+          sdkmanager --install "platforms;android-35" "build-tools;35.0.0"
 
       - name: Write signing config
         env:
